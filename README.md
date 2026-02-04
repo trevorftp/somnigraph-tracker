@@ -1,13 +1,12 @@
 # Somnigraph Tracker
 
-A public idea tracker for the Somnigraph project. This repository uses GitHub Issues and Projects to manage and track ideas, feature requests, and project planning.
+A public idea tracker for the Somnigraph map editor for Build/Duke Engine and Contour. This repository uses GitHub Issues to manage and track ideas, feature requests, and project planning.
 
 ## Purpose
 
 This repository serves as a centralized location for:
 - 💡 Collecting and discussing project ideas
 - 🚀 Tracking feature requests
-- 📋 Managing project roadmap and planning
 - 🐛 Reporting and tracking bugs
 - 💬 Community discussions and feedback
 
@@ -28,12 +27,6 @@ This repository serves as a centralized location for:
 - Vote on issues using 👍 reactions to show support
 - Follow issues to get notified of updates
 
-### Track Progress
-
-- Check out the [Projects](../../projects) tab to see the overall roadmap
-- Issues are organized by status, priority, and category
-- Watch the repository to stay updated on new developments
-
 ## Community Guidelines
 
 We welcome contributions from everyone! Please:
@@ -48,8 +41,6 @@ We welcome contributions from everyone! Please:
 
 👉 [Submit a new idea](../../issues/new)
 
-👉 [Check the project roadmap](../../projects)
-
 ---
 
-**Note:** This is an idea tracker repository. For the actual Somnigraph project code and implementation, please refer to the main project repository.
+**Note:** This is an idea tracker repository.
