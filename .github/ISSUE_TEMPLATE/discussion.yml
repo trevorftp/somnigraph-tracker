@@ -1,0 +1,46 @@
+name: 💬 General Discussion
+description: Start a general discussion or ask a question
+title: "[DISCUSSION] "
+labels: ["discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Start a discussion about the Somnigraph project!
+  
+  - type: textarea
+    id: topic
+    attributes:
+      label: Discussion Topic
+      description: What would you like to discuss?
+      placeholder: I'd like to discuss...
+    validations:
+      required: true
+  
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and Details
+      description: Provide more context about the topic
+      placeholder: Here's some background...
+    validations:
+      required: false
+  
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions
+      description: Any specific questions you have?
+      placeholder: |
+        - Question 1?
+        - Question 2?
+    validations:
+      required: false
+  
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Any other relevant information or resources
+    validations:
+      required: false
