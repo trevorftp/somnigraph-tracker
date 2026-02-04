@@ -50,8 +50,8 @@ body:
   - type: textarea
     id: environment
     attributes:
-      label: Environment
-      description: Information about your environment
+      label: Console Log
+      description: Please input the full log file
       placeholder: |
         - OS: [e.g., Windows 11, macOS 14, Ubuntu 22.04]
         - Browser: [e.g., Chrome 120, Firefox 121]
