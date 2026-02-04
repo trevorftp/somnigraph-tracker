@@ -2,13 +2,15 @@
 
 Thank you for your interest in contributing to the Somnigraph project! This tracker is designed to collect, discuss, and organize ideas from the community.
 
+This tracker is open to be used by anyone! All ideas and feature requests are welcome, as long as appropriate and not an already existing request.
+
 ## How to Contribute
 
 ### Submitting Ideas
 
 1. **Search First**: Before submitting a new idea, search existing issues to avoid duplicates
 2. **Choose the Right Template**: Select the appropriate issue template for your submission:
-   - 💡 **Idea Submission** - For new concepts and proposals
+   - 💡 **Idea Submission** - For new ideas and proposals
    - 🚀 **Feature Request** - For specific feature requests
    - 🐛 **Bug Report** - For reporting issues
    - 💬 **General Discussion** - For questions and discussions
@@ -59,7 +61,7 @@ This project follows a Code of Conduct. By participating, you agree to uphold th
 
 ## Questions?
 
-If you have questions about contributing, feel free to open a discussion issue or reach out to the maintainers.
+If you have questions about contributing, feel free to open a discussion issue or reach out to the Tsu on Discord.
 
 ---
 
